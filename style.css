@@ -23,7 +23,7 @@ body {
  color: #111;
  background-color: rgb(135,199,196);
  background: linear-gradient(180deg, rgba(135,199,196,1) 0%, rgba(157,69,137,1) 67%, rgba(36,56,138,1) 100%);
- min-height: 200vh;
+ min-height: 120vh;
 }	
 
 html {
