@@ -60,6 +60,10 @@ a:hover {
     text-align: center;
 }
 
+.letitre h1 {
+    text-align: center;
+}
+
 .letree {
     display: flex;
     justify-content: center;
