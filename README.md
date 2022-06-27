@@ -2,6 +2,8 @@
 
 Liens vers nos/vos differents besoins pour vous repérez dans l'univers du Chateau Perché. 
 
+lien vers la page: https://chateauperche.github.io/festival/ 
+
 Instagram
 Tiktok 
 Facebook 
