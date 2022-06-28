@@ -80,7 +80,15 @@ a:hover {
     margin: 40px 0 0 0px;
 }
 
+.letree span {
+    position: absolute;
+    left: 13px;
+    font-size: 1.6em;
+}
+
 .letree a {
+    position: relative;
+
     border: 3px solid black;
     display: block;
     padding: 20px; 
@@ -99,4 +107,16 @@ a:hover {
 
 .letree a:hover {
     background-color: rgba(255, 255, 255, 0.695);
+}
+
+
+.footer {
+    background-color: #111;
+    color:rgba(255, 255, 255, 0.695);
+    padding: 10px;
+    margin-top: 60px;
+}
+
+.footer a {
+    color: #fff;
 }
