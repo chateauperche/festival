@@ -77,7 +77,12 @@ a:hover {
 
 
 .letree p {
-    margin: 40px 0 0 0px;
+    margin: 40px 20px 0 20px;
+    max-width: 545px;
+    background: #ffffffbd;
+    text-align: center;
+    padding: 11px;
+    border-radius: 6px;
 }
 
 .letree span {
