@@ -151,6 +151,12 @@ a:hover {
   background-color: rgba(255, 255, 255, 0.695);
 }
 
+.space-line {
+  border-bottom: 2px solid gold;
+  width: 90%;
+  margin: 20px;
+}
+
 /* --------- zoom plan ---------- */
 .container_plan {
   width: 100%;
